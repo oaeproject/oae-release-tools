@@ -22,6 +22,7 @@
     }
   ],
   "dependencies": {
+    "awssum-amazon": "1.4.0",
     "awssum-amazon-s3": "1.4.0",
     "colors": "0.6.1",
     "optimist": "0.6.0",
